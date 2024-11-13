@@ -31,17 +31,14 @@ pip install requests fake-useragent beautifulsoup4 lxml
 The script generates an output like this:
 
 Air Conditioners ---> https://www.consumerreports.org/appliances/air-conditioners/
+
 Air Filters ---> https://www.consumerreports.org/appliances/air-filters/
+
 Air Fryers ---> https://www.consumerreports.org/appliances/air-fryers/
+
 Air Mattresses ---> https://www.consumerreports.org/home-garden/air-mattresses/
+
 Air Purifiers ---> https://www.consumerreports.org/appliances/air-purifiers/
-Airline Travel ---> https://www.consumerreports.org/money/airline-travel/
-All-Purpose Cleaners ---> https://www.consumerreports.org/appliances/all-purpose-cleaners/buying-guide/
-Antivirus Software ---> https://www.consumerreports.org/electronics-computers/antivirus-software/
-Appliance Stores ---> https://www.consumerreports.org/money/appliance-stores/
-Athletic shoes ---> https://www.consumerreports.org/health/athletic-shoes/buying-guide/
-Baby Bathtubs ---> https://www.consumerreports.org/babies-kids/baby-bathtubs/buying-guide/
-Baby Bottle Sterilizers ---> https://www.consumerreports.org/babies-kids/baby-bottle-sterilizers/
 
 
 ## Notes
