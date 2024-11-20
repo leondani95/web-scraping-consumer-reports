@@ -1,7 +1,5 @@
 # Web Scraping Project - Consumer Reports
 
-Hello! 👋
-
 This is a small project where I applied basic web scraping techniques to extract product categories and their corresponding links from the [Consumer Reports](https://www.consumerreports.org/cro/a-to-z-index/products/index.htm) website. 
 
 ## Files
